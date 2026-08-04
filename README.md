@@ -1,2 +1,4 @@
-# url-helper-js-28
+# Url Helper Js 28
+
 Simple URL search params query parser in JavaScript.
+
